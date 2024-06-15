@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishit Shah</h1>
 <h3 align="center">A passionate Developer from India</h3>
-
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" height="300" width="450"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishitshah27&label=Profile%20views&color=0e75b6&style=flat" alt="rishitshah27" /> </p>
 
 <h3 align="left">Connect with me:</h3>
